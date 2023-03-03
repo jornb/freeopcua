@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<?xml-model href="http://download.ros.org/schema/package_format2.xsd" schematypens="http://www.w3.org/2001/XMLSchema"?>
+<package format="3">
+    <name>freeopcua</name>
+    <version>0.0.1</version>
+    <description>Service for detection of visual marker sets</description>
+    <maintainer email="job@applica.no">Jorn Bersvendsen</maintainer>
+    <author email="job@applica.no">Jorn Bersvendsen</author>
+    <license>LGPL3</license>
+
+    <buildtool_depend>ament_cmake</buildtool_depend>
+
+    <export>
+        <build_type>ament_cmake</build_type>
+    </export>
+</package>
